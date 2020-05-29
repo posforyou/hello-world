@@ -57,6 +57,14 @@ Google's ExoPlayer framework
 
 이 플러그인은 Android의 새로운 권한 확인 메커니즘을 지원하도록 설계되었습니다.
 
+### Answers (Android, iOS)
+
+답변 키트와 상호 작용하기위한 API
+
+### Anyline (Android, iOS)
+
+Anyline은 애플리케이션이 모바일 장치에서 OCR (Optical Character Recognition)을 활성화 할 수있는 사용하기 쉬운 SDK를 제공합니다. https://anyline.com
+
 
 
 
