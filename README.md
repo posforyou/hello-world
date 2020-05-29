@@ -97,9 +97,42 @@ AppMinimize는 안드로이드 장치에서 응용 프로그램을 최소화하�
 
 AppRate 플러그인을 사용하면 사용자가 지금, 나중에 또는 절대로 앱을 평가하라는 메시지를 쉽게 표시 할 수 있습니다.
 
+### App Version (Android, iOS)
 
+대상 빌드 설정에서 앱 버전을 읽습니다.
 
+### Apple Pay (iOS)
 
+Apple Pay 기능을 제공하는 종속성이없는 Cordova 플러그인.
+
+### Apple Wallet (iOS)
+
+사용자가 결제 카드를 Apple 월렛에 추가 할 수있는 Cordova 플러그인.
+
+### Appodeal (Android, iOS)
+
+네이티브 Appodeal SDK를 통해 광고를 게재하는 플러그인
+
+### Appsflyer (Android, iOS)
+
+데이터를 활용하여 다양한 채널과 플랫폼, 디바이스에 걸친 사용자 여정을 종합적으로 살펴보세요.
+https://www.appsflyer.com/kr/
+
+### Audio Management (Android)
+
+벨소리, 음악, 알림 및 시스템의 오디오 스트림 볼륨을 관리하는 Cordova 플러그인. 해당 스트림의 가능한 벨소리 값은 무음, 진동 및 정상입니다.
+
+### AutoStart (Android)
+
+이 플러그인은 모든 부팅 또는 자동 업데이트 후에 자동으로 Android 앱을 시작합니다. 앱에서 자동 시작 기능을 활성화하거나 비활성화 할 수 있습니다.
+
+### BLE (Android, iOS)
+
+이 플러그인은 전화와 Bluetooth 저에너지 (BLE) 주변 장치 간의 통신을 가능하게합니다.
+
+### Background Fetch (iOS)
+
+iOS Background Fetch는 기본적으로 15 분마다 (사용자의 주요 시간 동안) 앱을 깨우고 앱을 정확히 30 초 동안 제공하는 API입니다 백그라운드 실행 시간 이 플러그인은 백그라운드 가져 오기 이벤트가 발생할 때마다 제공된 callbackFn을 실행합니다. 페치 이벤트 발생률을 높일 수있는 방법이 없으며이 플러그인은 UIApplicationBackgroundFetchIntervalMinimum의 가장 빈번한 값으로 요율을 설정합니다 .iOS는 기기 사용 및 시간에 따라 자동으로 요율을 결정합니다 (예 : 페치- 속도는 프라임 타임에 약 15 분이며 사용자가 잠자기로 추정되는 경우 (예 : 오전 3시) 덜 자주 발생합니다.
 
 
 
