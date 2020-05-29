@@ -24,3 +24,24 @@ Native List of Options
 ### AdMob Free/Plus/Pro (Android, iOS)
 
 광고
+
+### Adjust (Android, iOS)
+
+광고(?)
+
+### Admob (Android, iOS)
+
+광고
+
+### Alipay (Android, iOS)
+
+알리페이
+
+### Analytics Firebase (Android, iOS)
+
+구글 애널리틱스
+
+
+### Analytics Firebase (Android, iOS)애너
+### Analytics Firebase (Android, iOS)
+
