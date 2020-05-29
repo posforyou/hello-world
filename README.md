@@ -65,6 +65,42 @@ Google's ExoPlayer framework
 
 Anyline은 애플리케이션이 모바일 장치에서 OCR (Optical Character Recognition)을 활성화 할 수있는 사용하기 쉬운 SDK를 제공합니다. https://anyline.com
 
+### App Availability (Android, iOS)
+
+이 플러그인을 사용하면 사용자 기기에 앱이 설치되어 있는지 확인할 수 있습니다. iOS의 URI 스킴 (예 : twitter : //) 또는 Android의 패키지 이름 (예 : com.twitter.android)이 필요합니다.
+
+### App Center Analytics (Android, iOS)
+
+Microsoft 애널리틱스
+
+### App Center Crashes (Android, iOS)
+
+Microsoft (?)
+
+### App Center Push (Android, iOS)
+
+Microsoft Push (?)
+
+### App Launcher (Android, iOS)
+
+다른 앱이 설치되어 있는지 확인하고 실행하는 간단한 Cordova 플러그인.
+
+### App Minimize (Android)
+
+AppMinimize는 안드로이드 장치에서 응용 프로그램을 최소화하는 플러그인입니다
+
+### App Preferences (Android, iOS, Browser)
+
+이 플러그인을 사용하면 앱 환경 설정을 읽고 쓸 수 있습니다
+
+### App Rate (Android, iOS)
+
+AppRate 플러그인을 사용하면 사용자가 지금, 나중에 또는 절대로 앱을 평가하라는 메시지를 쉽게 표시 할 수 있습니다.
+
+
+
+
+
 
 
 
