@@ -162,4 +162,38 @@ iOS Background Fetch는 기본적으로 15 분마다 (사용자의 주요 시간
 
 이 플러그인을 사용하면 base64 데이터를 장치에 png 이미지로 저장할 수 있습니다
 
+### Base64 (Android, iOS)
+
+이 플러그인은 모든 파일의 base64를 인코딩하는 데 사용되며 iOS 용 js 코드를 사용하지만 안드로이드의 경우 v.3보다 낮은 안드로이드 버전을 처리하기 위해 기본 코드를 사용합니다
+
+### Battery Status (Android, iOS, Browser)
+
+배터리상태
+
+### BioCatch (Android, iOS)
+
+https://www.biocatch.com
+
+### BiometricWrapper (Android)
+
+이 플러그인은 생체 인식 (아이리스 및 지문)을 캡처하고 사용자를 확인합니다. 뱅킹 도메인에서 사용 가능
+
+### BlinkId (Android, iOS)
+
+바코드 및 문서 스캔을위한 Microblink SDK 래퍼
+
+### BlinkUp (Android, iOS)
+
+깜박임
+
+### Bluetooth Serial (Android, iOS)
+
+이 플러그인은 Bluetooth를 통한 직렬 통신을 가능하게합니다. Android 또는 iOS와 Arduino (Android에서 Android로 또는 iOS에서 iOS로)가 아닌 통신을 위해 작성되었습니다.
+
+### BluetoothLE (Android, iOS)
+
+이 플러그인은 Android, iOS 및 부분적으로 Windows에서 Bluetooth LE 장치와 상호 작용하기위한 가장 완벽한 구현입니다
+
+
+
 
