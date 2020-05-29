@@ -194,6 +194,42 @@ https://www.biocatch.com
 
 이 플러그인은 Android, iOS 및 부분적으로 Windows에서 Bluetooth LE 장치와 상호 작용하기위한 가장 완벽한 구현입니다
 
+### Braintree (Android, iOS)
+
+Braintree Drop-In Payments UI
+
+### BranchIo (Android, iOS)
+
+Branch.io는 딥 링크 및 초대 링크를위한 기여 서비스입니다.(?)
+
+### Brightness (Android, iOS)
+
+밝기 플러그인을 사용하면 장치의 디스플레이 밝기를 제어 할 수 있습니다.
+
+### Broadcaster (Android, iOS, Browser)
+
+이 플러그인은 네이티브 코드와 앱간에 교환 이벤트를 추가합니다.
+
+### Browser Tab (Android, iOS)
+
+이 플러그인은 일부 모바일 플랫폼, 특히 Android의 사용자 정의 탭 ( Chrome 사용자 정의 탭 구현 포함) 및 iOS의 SFSafariViewController 에 존재하는 인앱 브라우저 탭에 대한 인터페이스를 제공합니다
+
+### Calendar (Android, iOS)
+
+이 플러그인을 사용하면 모바일 장치의 캘린더에 이벤트를 추가 할 수 있습니다.
+
+### Call Directory (iOS)
+
+이 플러그인은 Callkit 통화 디렉토리 내선 번호에 전화 번호를 추가 할 수 있습니다. 전화 reloadExtension사용 후 addIdentification및 removeIdentification전화 디렉토리 확장에 변경 내용을 처리 할 수 있습니다.
+
+### Call Log (Android)
+
+이 플러그인은 기기의 통화 내역에 액세스하며 필터링 할 수 있습니다.
+
+### Call Number (Android, iOS)
+
+Cordova / Ionic 애플리케이션에서 직접 전화를 겁니다. 참고 : iOS 시뮬레이터 (및 Android 시뮬레이터)는 전화 하위 시스템에 대한 액세스를 제공하지 않습니다.
+
 
 
 
