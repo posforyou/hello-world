@@ -134,6 +134,32 @@ https://www.appsflyer.com/kr/
 
 iOS Background Fetch는 기본적으로 15 분마다 (사용자의 주요 시간 동안) 앱을 깨우고 앱을 정확히 30 초 동안 제공하는 API입니다 백그라운드 실행 시간 이 플러그인은 백그라운드 가져 오기 이벤트가 발생할 때마다 제공된 callbackFn을 실행합니다. 페치 이벤트 발생률을 높일 수있는 방법이 없으며이 플러그인은 UIApplicationBackgroundFetchIntervalMinimum의 가장 빈번한 값으로 요율을 설정합니다 .iOS는 기기 사용 및 시간에 따라 자동으로 요율을 결정합니다 (예 : 페치- 속도는 프라임 타임에 약 15 분이며 사용자가 잠자기로 추정되는 경우 (예 : 오전 3시) 덜 자주 발생합니다.
 
+### Background Geolocation (Android, iOS)
 
+이 플러그인은 배터리 절약형 "원형 영역 모니터링"및 "감지 중지"를 통해 포 그라운드 및 백그라운드 지리적 위치를 제공합니다
+
+### Background Mode (Android, iOS, Browser)
+
+백그라운드에서 앱이 절전 모드로 전환되지 않도록하는 Cordova 플러그인
+
+### Backlight (Android)
+
+이 플러그인은 장치 백라이트를 켜거나 끕니다.
+
+### Badge (Android, iOS, Browser)
+
+배지 번호의 기본 목적은 응용 프로그램이 포 그라운드에서 실행되고 있지 않을 때 응용 프로그램이 사용자에게 읽지 않은 메시지와 같은 내용이 있음을 사용자에게 알리는 것입니다.
+
+### Baidu Push (Android, iOS)
+
+바이두 Push
+
+### Barcode Scanner (Android, iOS)
+
+바코드 스캐너 플러그인은 카메라보기를 열고 자동으로 바코드를 스캔하여 데이터를 다시 사용자에게 반환합니다.
+
+### Base64 To Gallery (Android, iOS)
+
+이 플러그인을 사용하면 base64 데이터를 장치에 png 이미지로 저장할 수 있습니다
 
 
