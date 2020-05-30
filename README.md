@@ -936,3 +936,158 @@ Android에서 기기의 스텝 카운터를 사용하기위한 Cordova 플러그
 ### Stripe (Android, iOS, Browser)
 
 Android 및 iOS 용 Stripe(미국업체 온라인 신용카드 결제)의 기본 SDK를 사용할 수있는 플러그인입니다.
+
+### SumUp (Android, iOS)
+
+SumUp 결제 단말기와 통신하기위한 플러그인
+
+### Taptic Engine (iOS)
+
+iPhone 7, 7 Plus 이상에서 Taptic Engine API를 사용하는 이온 플러그인.
+
+### Tealium (Android, iOS)
+
+이 플러그인은 Ionic Native 용 Tealium Cordova 플러그인 주위에 TypeScript 래퍼를 제공합니다 .
+Tealium iQ 태그 관리는 페이지 코드를 편집 할 필요없이 태그를 관리하는 데 사용되는 웹 인터페이스입니다. 이 인터페이스에서는 비즈니스 요구에 맞게 공급 업체 태그를 구성합니다. 태그 관리를 통해 웹 사이트에서 하드 코딩 된 태그를 제거하고 단일 태그로 교체 할 수 있습니다. iQ 태그 관리를 사용하면 긴 개발주기 없이도 태그를 쉽게 제어 할 수 있습니다.
+
+### TealiumAdIdentifier (Android, iOS)
+
+이 모듈은 Tealium Cordova 플러그인 에 따라 다릅니다 . 그것이 없으면이 모듈은 아무것도하지 않습니다. Tealium 데이터 레이어에서 IDFA 및 Google Ad Identifier를 사용할 수 있도록합니다.
+
+### TealiumInstallReferrer (Android)
+
+이 모듈은 Tealium Cordova 플러그인 에 따라 다릅니다 . 그것이 없으면이 모듈은 아무것도하지 않습니다. INSTALL_REFERRER 인 텐트에 대한 브로드 캐스트 리시버를 구현합니다.
+
+### Text To Speech (Android, iOS)
+
+텍스트 음성 변환 플러그인
+
+### Theme Detection (Android, iOS)
+
+다크 모드의 활성화 여부를 감지하는 Cordova 플러그인
+
+### Themeable Browser (Android, iOS, Browser)
+
+스타일링이 가능한 인앱 브라우저.
+
+### Toast (Android, iOS)
+
+이 플러그인을 사용하면 iOS, Android 및 WP8에서 기본 토스트 (작은 텍스트 팝업)를 표시 할 수 있습니다. 브라우저의 뷰포트에서 항상 보장되는 비 침입 기본 알림을 표시하는 데 좋습니다.
+
+### Touch ID (iOS)
+
+TouchID 센서로 사용자의 지문을 스캔하십시오.
+
+### Twitter Connect (Android, iOS)
+
+Twitter Single Sign On을 사용하는 플러그인 Twitter의 Fabric SDK를 사용합니다
+
+### Uid (Android)
+
+고유 식별자 (UUID, IMEI, IMSI, ICCID 및 MAC)를 가져옵니다.
+
+### Unique Device ID (Android, iOS)
+
+이 플러그인은 고유 한 교차 설치 앱 특정 장치 ID를 생성합니다.
+
+### Unvired Cordova SDK (Android, iOS, Browser)
+
+이 플러그인을 사용하면 UMP (Unvired Mobile Platform)에 연결되는 앱을 빌드 할 수 있습니다.
+
+### Uptime (Android, iOS)
+
+이 플러그인은 부팅 (업타임) 이후 밀리 초 단위의 시간을 제공합니다.
+
+### UrbanAirShip (Android, iOS)
+
+Urban Airship 은 모바일 참여와 디지털 지갑 을 서비스로 제공하는 미국 회사입니다 .
+
+### User Agent (Android, iOS)
+
+UserAgent 플러그인은 HTTP 사용자 에이전트 헤더를 설정하는 기능을 제공합니다. 
+
+### Vibration (Android, iOS)
+
+장치를 진동
+
+### Video Capture Plus (Android, iOS)
+
+이 플러그인은 기본 미디어 캡처 플러그인 기능 외에 유용한 추가 기능을 제공합니다.
+HD 녹화.
+전면 카메라부터 시작합니다.
+맞춤 오버레이 (현재 iOS 만 해당)
+
+### Video Editor (Android, iOS)
+
+기본 장치 API를 사용하여 비디오 편집
+
+### Video Player (Android)
+
+간단히 전체 화면 모드로 비디오를 재생할 수있는 Cordova 플러그인.
+
+### Web Intent (Android)
+
+이 플러그인은 Android 인텐트 메커니즘을위한 범용 심 레이어를 제공하여 인 텐트 전송 및 수신을 처리하는 다양한 방법을 제공합니다.
+
+### Web Server (Android, iOS)
+
+이 플러그인을 사용하면 Android 및 iOS 장치 용 로컬 동적 컨텐츠 웹 서버를 시작할 수 있습니다.
+
+### Webengage (Android, iOS)
+
+Android 및 iOS 용 Webengage Cordova 플러그인을 랩핑하는 이온 기본 랩퍼
+WebEngage를 사용하면 푸시 알림, 인앱 메시지, SMS, 웹 푸시, 이메일, WhatsApp, Facebook 등을 통해 상황에 맞는 맞춤형 캠페인을 제작하여 사용자를 참여시킬 수 있습니다!
+
+### Wechat (Android, iOS)
+
+Wechat SDK의 JS 버전 인 cordova 플러그인
+
+### WheelSelector Plugin (Android, iOS)
+
+Cordova (Android / iOS) 용 기본 휠 선택기.
+
+### Youtube Video Player (Android, iOS)
+
+기본 YouTube 앱에서 YouTube 동영상을 재생합니다
+
+### ZBar (Android, iOS)
+
+ZBar 스캐너 플러그인을 사용하면 2D 바코드를 스캔 할 수 있습니다.
+
+### Zeroconf (Android, iOS)
+
+이 플러그인을 사용하면 Zeroconf / Bonjour / mDNS 서비스를 찾아보고 게시 할 수 있습니다.
+Zeroconf (Zero configuration networking)은 사람손에 의한 조작없이, 또한 특별한 설정서버를 사용하지 않고, 이용가능한 인터넷프로토콜(IP) 네트워크를 자동적으로 작성 하는 일종의 기법이다. Zero configuration networking은 컴퓨터나 프린터와 같은 장치를 자동적으로 네트워크에 접속하는것이 가능하게 한다. zeroconf가 없는 경우, 네트워크 관리자가 Dynamic Host Configuration Protocol (DHCP) 나 Domain Name System (DNS) 와 같은 서비스의 설정을 할 필요가 있고, 경우에 따라서는 각각 컴퓨터의 네트워크설정을 사람손으로 변경할 필요가 있고, 시간이 걸리고 귀찮다.
+
+zeroconf 는 다음 3가지의 기술을 기반으로 하고 있다.
+
+네트워크 장치로의 네트워크 주소 할당
+컴퓨터 hostname의 자동 해석과 자동 배포
+프린터와 같은 네트워크 장치의 위치를 자동 감지
+
+### Zip (Android, iOS)
+
+Android 및 iOS에서 파일을 압축 해제하는 Cordova 플러그인
+
+### Zoom (Android, iOS)
+
+Cordova 애플리케이션에서 Zoom Video Conferencing 서비스를 사용하기위한 Cordova 플러그인.
+
+### hce (Android)
+
+HCE 코르도바 래퍼
+이 플러그인은 Apache Cordova 용 호스트 카드 에뮬레이션 (HCE)을 제공합니다. 호스트 기반 카드 에뮬레이션을 사용하면 Cordova 애플리케이션이 보안 요소를 사용하지 않고 NFC 스마트 카드를 에뮬레이트하고 NFC 리더와 직접 대화 할 수 있습니다.
+이 플러그인은 저수준 액세스를 제공합니다. 플러그인은 Uint8Arrays로 명령을 수신하고 응답이 Uint8Arrays가 될 것으로 예상합니다. 개발자는 응용 프로그램 요구에 따라 더 높은 수준의 프로토콜을 구현해야합니다.
+호스트 카드 에뮬레이션에는 NFC가 필요합니다.
+
+### iOS DocumentPicker (iOS)
+
+사용자가 파일을 선택할 수 있도록 iOS에서 파일 선택기를 열고 파일 URI를 반환합니다. 사용자가 iCloud에서 파일을 업로드 할 수 있도록 허용
+
+### iOS File Picker (iOS)
+
+사용자가 파일을 선택할 수 있도록 iOS에서 파일 선택기를 열고 파일 URI를 반환합니다.
+
+### jAnalytics (Android, iOS)
+
+중국
