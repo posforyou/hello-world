@@ -734,6 +734,42 @@ OneSignal은 웹 사이트 및 모바일 응용 프로그램을위한 무료 푸
 각 플랫폼에 전용 SDK를 제공하여 모든 주요 네이티브 및 모바일 플랫폼을 지원합니다.
 RESTful 서버 API 및 마케터가 푸시 알림을 디자인하고 보내는 온라인 대시 보드를 제공합니다.
 
+### Open Native Settings (Android, iOS)
 
+iOS / android 설정의 기본 화면을 여는 플러그인
 
+### OpenALPR (Android, iOS)
+
+이 Cordova 플러그인은 OpenALPR (Automatic License Plate Recognition) 라이브러리에 대한 지원을 추가하여 사진에서 번호판 검색을 지원합니다.
+
+### PayPal (Android, iOS)
+
+Cordova / Ionic 애플리케이션 용 PayPal 플러그인
+
+### Pedometer (Android, iOS)
+
+걸음 수 및 이동 한 거리에 대한 기타 정보와 같은 보행자 관련 보수계 데이터를 가져옵니다.
+
+### Phonegap Local Notification (Android, iOS, Browser)
+
+로컬 알림 플러그인은 개발자에게 기기의 알림 영역에 표시되는 앱에서 알림을 게시 할 수있는 기능을 제공합니다. 로컬 알림 플러그인의 API는 W3C 웹 알림 사양을 따릅니다.
+
+### Photo Library (Android, iOS, Browser)
+
+PhotoLibrary 플러그인을 사용하면 URL로 장치에서 사진에 액세스 할 수 있습니다. 따라서 일반 img 태그를 사용하여 사진과 썸네일 및 다른 타사 라이브러리도 표시 할 수 있습니다. 라이브러리에 사진 및 비디오 저장도 지원됩니다. cdvphotolibrary URL은 Angular에서 신뢰해야합니다.
+
+### Photo Viewer (Android, iOS)
+
+이 플러그인은 이미지를 이동, 확대 / 축소 및 공유 할 수있는 기능으로 이미지를 전체 화면으로 표시 할 수 있습니다.
+
+### Pin Dialog (Android, iOS)
+
+Android 및 iOS 용 PhoneGap 숫자 비밀번호 대화 플러그인.
+
+### Pinterest (Android, iOS)
+
+Pinterest를위한 Cordova 플러그인
+핀터레스트는 이미지를 통해 아이디어를 공유하고 영감을 얻는 세계 최고의 소셜미디어 플랫폼 중 하나입니다.
+핀터레스트는 월간 약 2억 5천만 명이 넘는 사용자들이 서비스를 이용하고 있으며, 현재 1750억 개의 핀 이 등록되어있고, 신규 회원의 80%가 미국 이외의 국가에서 유입되고 있습니다.
+페이스북, 인스타그램의 뒤를 잇는 빠르게 성장하는 소셜미디어 플랫폼입니다.
 
