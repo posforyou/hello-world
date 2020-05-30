@@ -668,7 +668,36 @@ ADAL (Active Directory 인증 라이브러리) 플러그인 ADAL (Active Directo
 
 이 플러그인은 장치에서 오디오 파일을 녹음하고 재생할 수있는 기능을 제공합니다.
 
+### Mixpanel (Android, iOS, Browser)
 
+Android 및 iOS 용 Mixpanel SDK를 감싸는 Cordova 플러그인
+Mixpanel 과 Kissmetrics는 (1)고객들이 웹사이트에 로그인을 하거나 자신들의 정보를 입력하는 것을 확인하게 해주고, (2)이러한 정보들을 가지고, 우리는 웹사이트 metrics나 이벤트를 정의할 수 있습니다. 웹사이트나 metrics를 정의하는 것은 고객이 어떤 사람들인지, 어떤 경로를 가지고, 어떤 행동을 했는지에 대해 추적하기 위해서 입니다
+
+### Mobile Accessibility (Android, iOS)
+
+이 플러그인은 스크린 리더가 실행 중인지, 색상 반전이 가능한지, 텍스트의 기본 크기 조정 등 모바일 운영 체제의 다양한 접근성 기능 상태에 대한 정보를 제공합니다. 또한 응용 프로그램이 스크린 리더가 말하도록 문자열을 보내거나 스크린 리더가 말을 멈추는 명령을 보낼 수 있습니다.
+
+### Music Controls (Android, iOS)
+
+Cordova 애플리케이션을위한 음악 컨트롤. 재생 / 일시 정지, 이전, 다음 버튼으로 '미디어'알림을 표시하여 사용자가 재생을 제어 할 수 있습니다. 헤드셋 이벤트도 처리합니다 (플러그, 플러그 분리, 헤드셋 버튼).
+
+### NFC (Android)
+
+NFC 플러그인을 사용하면 NFC 태그를 읽고 쓸 수 있습니다. 다른 NFC 지원 장치로 송수신 할 수도 있습니다.
+
+### Native Audio (Android, iOS, Browser)
+
+기본 오디오 재생
+
+### Native Geocoder (Android, iOS)
+
+네이티브 포워드 및 리버스 지오 코딩을위한 Cordova 플러그인
+Geocoder 서브 모듈을 활용하여 주소->좌표 검색(geocode), 좌표->주소 검색(reversegeocode) API를 호출할 수 있습니다.
+등록된 Client Id와 웹 서비스 URL이 일치하는 페이지에서만 정상적으로 사용할 수 있습니다.
+
+### Native Keyboard (Android, iOS)
+
+기본 키보드 크로스 플랫폼 WhatsApp / 메신저 / 슬랙 스타일 키보드
 
 
 
