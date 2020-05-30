@@ -848,3 +848,65 @@ SSH를 통해 연결하고 명령을 실행하는 Cordova 플러그인
 ### Screenshot (Android, iOS)
 
 스크린 샷을 캡처합니다
+
+### Secure Storage (Android, iOS, Browser)
+
+이 플러그인은 장치의 보안 저장소에서 키, 값 쌍을 가져오고 설정하고 제거합니다.
+
+### Sensors (Android)
+
+이 플러그인은 Android 기기의 센서를 활성화합니다
+
+### Serial (Android)
+
+이 플러그인은 직렬 연결 작업을위한 기능을 제공합니다
+
+### Shake (iOS)
+
+흔들림 제스처 처리
+
+### Sim (Android, iOS)
+
+운송 업체 이름, mcc, mnc 및 국가 코드 및 기타 시스템 종속 정보와 같은 Sim 카드에서 정보를 가져옵니다.
+
+### Siri Shortcuts (iOS)
+
+이 플러그인은 앱이 XCode 10으로 빌드 된 경우에만 작동합니다. 단축키는 iOS 버전> = 12.0에서만 나타납니다.
+이 플러그인은 Cordova에서 Siri 단축키를 사용할 수있게합니다.
+
+### Smartlook (Android)
+
+공식 Smartlook SDK 플러그인
+https://www.smartlook.com/ 사용자분석도구
+
+### Sms Retriever (Android)
+
+이 플러그인은 READ 권한없이 도착한 SMS를 검색합니다.
+
+### Social Sharing (Android, iOS, Browser)
+
+소셜 네트워크, SMS 및 이메일을 통해 텍스트, 파일, 이미지 및 링크를 공유하십시오.
+
+### Speech Recognition (Android, iOS)
+
+이 플러그인은 클라우드 서비스를 사용하여 음성 인식을 수행합니다.
+
+### SpeechKit (Android, iOS)
+
+Nuance SpeechKit SDK 구현
+고급 음성 인식, 자연스러운 텍스트 음성 변환 음성
+
+### Spinner Dialog (Android, iOS)
+
+Paldom / SpinnerDialog를 기반으로 기본 스피너를 표시하기위한 Cordova 플러그인.
+스피너란? 여러개의 값 중 1개를 선택하기 위해 사용하는 안드로이드 에서 제공해주는 기본 위젯 입니다.
+
+### Splash Screen (Android, iOS)
+
+이 플러그인은 응용 프로그램 시작 중에 스플래시 화면을 표시하고 숨 깁니다
+
+### Spotify Auth (Android, iOS)
+
+Spotify(Music)로 인증하기위한 Cordova 플러그인
+
+
