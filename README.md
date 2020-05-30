@@ -544,3 +544,54 @@ Cordova 앱용 내장 httpd. 가벼운 HTTP 서버.
 
 Ionic Native 용 HyperTrack Cordova 플러그인 랩퍼. 위치 기반 서비스 제공 업체. config.xml에 게시 가능한 키를 포함시켜야합니다
 
+### IBeacon (Android, iOS)
+
+이 플러그인은 iBeacon과 작동하는 기능을 제공합니다
+블루투스 신호를 이용한 사용자의 스마트폰에 특정 정보 또는 메세지를 푸쉬(push)해주는 기술
+현재 미국 내에 있는 250개 이상의 Apple 매장들 내에서 이러한 ‘아이비콘’ 기술을 상용화하고 있으며, 이를 통해 매장에 오는 고객들에게 신제품 소개 또는 환영 메세지 등을 그들의 스마트폰을 통해 보내드리고 있답니다.
+아이비콘에는 크게 2가지의 뜻이 함축되있는데요, 먼저 저전력 블루투스 (Bluetooth Low Energy; BLE) 칩셋이 탑재된 일종의 ‘스마트폰 감지 센서기’란 뜻으로도 이용됩니다. 이 센서기는 자기만의 일종의 고유 ID인 UUID (사람으로 치자면 주민등록번호 같은 거죠) 를 지속적으로 블루투스 신호를 통해 발산을 하면서 주변의 스마트폰이 자신(센서기)의 존재를 감지할 수 있도록 돕는 것이죠.
+여기서 많은 사람들은 아이비콘이 스마트폰에게 정보를 전달을 해주는 기기라고 오해를 하고 계신데요, 아이비콘 자체에서는 UUID 만이 발산이 되는 것이고, 스마트폰은 주변에 감지된 UUID정보를 서버에 전달을 하게 되죠. 그럼 서버 내에 해당 UUID와 매칭이 되는 저장된 정보가 스마트폰에게 전달을 하는 것이랍니다.
+
+### Image Picker (Android, iOS)
+
+여러 이미지 선택을 위한 Cordova 플러그인
+
+### Image Resizer (Android, iOS)
+
+이미지 크기 조정을위한 Cordova 플러그인
+
+### In App Browser (Android, iOS, Browser)
+
+앱 브라우저에서 시작
+
+### In App Purchase 2 (Android, iOS)
+
+iOS, Android, Windows, macOS 및 XBox에서 인앱 구매.
+
+### In App Purchase (Android, iOS)
+
+iOS / Android에서 앱 구매를 위한 경량 Cordova 플러그인.
+
+### In App Review (iOS)
+
+이 플러그인은 iOS 클래스 SKStore 리뷰 컨트롤러를 사용하여 iOS 10.3부터 사용 가능한 인앱 검토 팝업을 엽니다.
+
+### Index App Content (iOS)
+
+이 플러그인은 iOS (=> iOS 9)에서 Core Spotlight와 상호 작용할 수있는 Javascript API를 제공합니다. 스포트라이트 검색 색인에 항목을 추가, 업데이트 및 삭제할 수 있습니다. 스포트라이트 검색은 이러한 항목을 결과 목록에 포함시킵니다. 검색 결과를 앱과 딥 링크 할 수 있습니다.
+
+### Insomnia (Android, iOS, Browser)
+
+모바일 장치의 화면이 잠들지 않도록 합니다.
+
+### Instagram (Android, iOS)
+
+인스타그램 앱으로 사진 공유
+
+### Intel Security (Android, iOS)
+
+App Security API를 사용하면 애플리케이션 개발자를 위해 정의 된 새로운 API 세트를 사용하여 플랫폼에서 보안 특성 및 기능을 사용할 수 있습니다. API를 제대로 사용하기 위해 보안 전문가가 될 필요는 없습니다. 데이터 암호화 및 기능 설정과 같은 주요 요소는 API 구현에 의해 추상화되고 수행됩니다.
+
+
+
+
