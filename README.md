@@ -286,5 +286,29 @@ iOS 또는 Android의 PhoneGap 앱에 Couchbase Lite를 설치하는 플러그�
 
 이미지 자르기 는 사진 또는 그림 이미지에서 원하지 않는 외부 영역을 제거하는 것입니다. 프로세스는 일반적으로 이미지에서 불필요한 쓰레기를 제거하고, 프레임 을 개선 하거나, 종횡비 를 변경 하거나, 배경에서 피사체를 강조하거나 격리 하기 위해 이미지의 주변 영역을 제거하는 것으로 구성 됩니다
 
+### DB Meter (Android, iOS)
+
+이 플러그인은 마이크에서 데시벨 값을 가져올 수있는 전역 DBMeter 객체를 정의합니다.
+
+### DNS (Android)
+
+애플리케이션이 호스트 이름을 기본 네트워크 주소로 수동으로 확인할 수있게하는 Apache Cordova 용 플러그인입니다. 이것은 장치의 DNS 서버 구성에 문제가 있는지 확인하는 데 주로 유용합니다.
+
+### Date Picker (Android, iOS)
+
+DatePicker 플러그인을 사용하면 기본 대화 상자를 사용하여 날짜 또는 시간을 가져올 수 있습니다.
+
+### Deeplinks (Android, iOS, Browser)
+
+이 플러그인은 iOS 및 Android에서 커스텀 URL 스킴 링크 및 범용 앱 링크 모두에 대한 딥 링크를 처리합니다.
+
+### Device Accounts (Android)
+
+Android 기기와 연결된 Google 계정을 가져옵니다.
+
+### Device Feedback (Android)
+
+Android 기기에서 햅틱 또는 음향 피드백을 제공 할 수있는 플러그인입니다.
+
 
 
