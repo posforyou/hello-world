@@ -699,6 +699,41 @@ Geocoder 서브 모듈을 활용하여 주소->좌표 검색(geocode), 좌표->�
 
 기본 키보드 크로스 플랫폼 WhatsApp / 메신저 / 슬랙 스타일 키보드
 
+### Native Page Transitions (Android, iOS)
+
+기본 페이지 전환 플러그인은 기본 하드웨어 가속을 사용하여보기 간의 전환을 애니메이션합니다. 전환 유형, 지속 시간 및 방향을 완벽하게 제어 할 수 있습니다.
+
+### Native Ringtones (Android, iOS)
+
+플러그인은 Android 또는 IOS 기기에서 기본 벨소리 목록을 가져 오는 데 도움이됩니다. 또한이 플러그인을 사용하여 기본 벨소리 및 사용자 지정 벨소리 (www 폴더에 추가)를 재생하거나 중지 할 수 있습니다.
+
+### Native Storage (Android, iOS, Browser)
+
+Android 및 iOS에서 기본 스토리지
+
+### Navigation Bar (Android)
+
+NavigationBar 플러그인을 사용하면 Android 탐색 막대를 숨기고 자동으로 숨길 수 있습니다.
+
+### Network Interface (Android, iOS, Browser)
+
+Android, Blackberry 10, 브라우저, iOS 및 Windows Phone 8을 지원하는 Cordova / PhoneGap 용 네트워크 인터페이스 정보 플러그인.
+
+### Network (Android, iOS, Browser)
+
+장치의 셀룰러 및 Wi-Fi 연결 및 장치가 인터넷에 연결되어 있는지 여부에 대한 정보를 제공합니다.
+
+### OCR (Android, iOS)
+
+이 플러그인은 이미지에서 텍스트를 식별하고 추출하려고 시도합니다.
+
+### OneSignal (Android, iOS)
+
+OneSignal 플러그인은 OneSignal 서비스 사용을위한 클라이언트 구현입니다 . OneSignal은 푸시 알림을 제공하기위한 간단한 구현입니다.
+OneSignal은 웹 사이트 및 모바일 응용 프로그램을위한 무료 푸시 알림 서비스입니다.
+각 플랫폼에 전용 SDK를 제공하여 모든 주요 네이티브 및 모바일 플랫폼을 지원합니다.
+RESTful 서버 API 및 마케터가 푸시 알림을 디자인하고 보내는 온라인 대시 보드를 제공합니다.
+
 
 
 
