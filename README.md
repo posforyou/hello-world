@@ -454,3 +454,93 @@ Firebase 메시징 용 Cordova 플러그인
 ### Flurry Analytics (Android, iOS)
 
 https://www.flurry.com/ 앱 분석 툴
+
+### Foreground Service (Android)
+
+이 플러그인을 사용하면 포 그라운드 진행중인 알림을 사용하여 Android 디바이스가 백그라운드에서 서비스를 계속 실행할 수 있습니다. 이것은 앱이 안드로이드 API 26+의 백그라운드에있는 동안 실행되지 않는 'cordova-geolocation'과 같은 플러그인과 함께 사용하는 것을 목표로합니다.
+
+### Full Screen Image (Android, iOS)
+
+Cordova 프로젝트의 이미지를 표시하고 기본 컴포넌트와 함께 사용하는 플러그인입니다.
+
+### Gao De Location (Android, iOS)
+
+원래 GPS 포지셔닝은 Google 브라우저 포지셔닝을 사용하고 Google이 중국에서 철수하므로 GPS Android 포지셔닝을 수행 할 수 없습니다. Gaode 위치는 주소 정보를 직접 반환 할 수 있습니다 Gaode 위치는 주소 정보를 직접 반환 할 수 있습니다
+
+### Geofence (Android, iOS)
+
+위도 / 경도 좌표 주위의 원형 지오 펜스를 모니터링하고 지오 펜스의 경계가 교차 될 때 사용자에게 알림을 보냅니다. 사용자가 지오 펜스에 들어가거나 나가면 알림을 보낼 수 있습니다. 지오 펜스는 장치 재부팅 후에도 지속됩니다. 지오 펜스는 앱이 실행되지 않는 경우에도 모니터링됩니다.
+
+### Geolocation (Android, iOS, Browser)
+
+이 플러그인은 위도 및 경도와 같은 장치 위치에 대한 정보를 제공합니다. 일반적인 위치 정보 출처로는 GPS (Global Positioning System) 및 IP 주소, RFID, WiFi 및 Bluetooth MAC 주소와 같은 네트워크 신호 및 GSM / CDMA 셀 ID와 같은 네트워크 신호에서 추론 된 위치가 있습니다.
+이 API는 W3C Geolocation API 사양을 기반으로하며 아직 구현을 제공하지 않은 장치에서만 실행됩니다.
+iOS의 경우이 구성을 configuration.xml 파일에 추가해야합니다.
+
+### Globalization (Android, iOS, Browser)
+
+이 플러그인은 정보를 얻고 사용자의 로캘, 언어 및 시간 대별 작업을 수행합니다.
+
+### Google Analytics (Android, iOS, Browser)
+
+이 플러그인은 Google의 기본 범용 웹 로그 분석 SDK 필수 구성 요소에 연결합니다.
+iOS 및 / 또는 Android 용 Cordova 3.0+ 프로젝트
+Google 웹 로그 분석 관리 콘솔을 통한 모바일 앱 속성
+(Android) Android SDK 관리자 를 통해 설치된 Google Play 서비스 SDK
+
+### Google Maps (Android, ?)
+
+Google지도 플러그인
+
+### Google Nearby (Android)
+
+이 플러그인은 Google 주변 메시지 API에 대한 지원을 추가합니다.
+
+### Google Play Games Services (Android)
+
+Google Play 게임 서비스와 상호 작용할 수있는 Cordova 플러그인입니다.
+
+### Google Plus (Android, iOS)
+
+이 플러그인을 사용하면 iOS 및 Android 에서 Google 로그인으로 사용자를 인증하고 식별 할 수 있습니다 . 기본적으로 이메일, 표시 이름, 이름, 성, 프로필 사진 URL 및 사용자 ID가 표시됩니다. idToken 및 serverAuthCode 를 얻도록 구성 할 수도 있습니다 .
+이 플러그인은 Google 로그인 API에 대한 액세스 만 래핑합니다. 추가 API 액세스는 사용 사례별로, 개발자별로 구현해야합니다.
+
+### Gyroscope (Android, iOS)
+
+자이로 스코프 센서 데이터 읽기
+
+### HTTP (Android, iOS)
+
+HTTP 서버와 통신하기위한 Cordova / Phonegap 플러그인. iOS 및 Android를 지원합니다.
+자바 스크립트 요청에 비해 장점 :
+백그라운드 스레딩-모든 요청은 백그라운드 스레드에서 수행됩니다.
+SSL 피닝
+
+### Header Color (Android)
+
+Android Multitask View에서 헤더 색상을 변경하는 Cordova 플러그인
+
+### Health Kit (iOS)
+
+HealthKit 플러그인을 사용하면 iOS 8+ HealthKit 프레임 워크에서 데이터를 읽고 쓸 수 있습니다. 저장된 모든 데이터는 iOS Health 앱에 표시되며 다른 iOS 앱에서 사용할 수 있습니다.
+
+### Health (Android, iOS)
+
+Apple HealthKit 또는 Google Fit과 같은 피트니스 및 건강 리포지토리를 추상화하는 플러그인입니다.
+
+### Hot Code Push (Android, iOS)
+
+iOS 및 Android를 지원하는 Cordova 용 HotCodePush 플러그인. 이 플러그인을 사용하면 html, css 및 js 파일을 서버와 동기화 된 상태로 유지할 수 있습니다.
+
+### Hotspot (Android)
+
+Android에서 핫스팟 네트워크를 관리하기위한 Cordova 플러그인.
+
+### Httpd (Android, iOS)
+
+Cordova 앱용 내장 httpd. 가벼운 HTTP 서버.
+
+### HyperTrack (Android)
+
+Ionic Native 용 HyperTrack Cordova 플러그인 랩퍼. 위치 기반 서비스 제공 업체. config.xml에 게시 가능한 키를 포함시켜야합니다
+
