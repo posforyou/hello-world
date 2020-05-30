@@ -264,4 +264,27 @@ iOS, Android 및 Windows Phone 8을 지원하는 Cordova 용 클립 보드 관�
 
 앱 설정을 클라우드 저장소에 저장하므로 사용자가 앱을 다시 설치하거나 다른 기기에 설치하면 설정이 복원되어 새 설치에서 사용할 수 있습니다.
 
+### Code Push (Android, iOS)
+
+iOS 및 Android를 지원하는 Microsoft의 Cordova 용 CodePush 플러그인
+코드 푸쉬는 MS에서 만든 오픈소스로서 앱을 심사없이도 실시간 업데이트를 가능하게 해주는 모듈
+
+### Colored Browser Tabs (Android, iOS)
+
+이 플러그인은 Android에서 Chrome 맞춤 탭을 열거 나 iOS에서 SafariViewController를 엽니다.
+
+### Contacts (Android, iOS, Browser)
+
+장치의 연락처에 액세스하고 관리합니다.
+
+### Couchbase Lite (Android, iOS)
+
+iOS 또는 Android의 PhoneGap 앱에 Couchbase Lite를 설치하는 플러그인
+카우치베이스 서버(Couchbase Server)는 유연한 JSON 모델로 고정 데이터베이스 스키마의 제약 없이 쉽게 애플리케이션을 수정할 수 있으며, submilisecond (1/1000 ms 이하)의 초고속 데이터 입출력 처리의 높은 성능을 보장합니다. 또한, 간편한 스케일 아웃(scale-out)으로 다운타임 없이 시스템 구성 변경 및 확장을 지원합니다.
+
+### Crop (Android, iOS)
+
+이미지 자르기 는 사진 또는 그림 이미지에서 원하지 않는 외부 영역을 제거하는 것입니다. 프로세스는 일반적으로 이미지에서 불필요한 쓰레기를 제거하고, 프레임 을 개선 하거나, 종횡비 를 변경 하거나, 배경에서 피사체를 강조하거나 격리 하기 위해 이미지의 주변 영역을 제거하는 것으로 구성 됩니다
+
+
 
