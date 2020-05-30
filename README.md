@@ -605,4 +605,71 @@ Intercom의 Business Messenger는 단순한 채팅 이상의 기능을 제공하
 
 렌즈 https://www.jins.com/us/
 
+### Keyboard (Android, iOS)
+
+Cordova 용 키보드 플러그인.
+
+### Keychain Touch Id (Android, iOS)
+
+iOS TouchID / Android 지문을 앱에 추가하고 기기 키 체인에 비밀번호를 안전하게 저장할 수있는 cordova 플러그인.
+
+### Keychain (iOS)
+
+iOS 키 체인에서 데이터 가져 오기 및 설정
+
+### LastCam (iOS)
+
+Last Cam은 사용자가 선택한 html 미리보기에서 비디오와 이미지를 모두 캡처 할 수있는 카메라 미리보기 플러그인입니다.
+
+### Launch Navigator (Android, iOS)
+
+목적지로 이동하기 위해 오늘날 가장 인기있는 내비게이션 / 라이드 앱을 실행하기위한 Cordova / Phonegap 플러그인
+
+### Launch Review (Android, iOS)
+
+App Store에서 사용자 리뷰 / 등급을 남기는 데 도움이됩니다.
+사용자가 리뷰를 남길 수 있도록 현재 앱에 대한 플랫폼의 App Store 페이지를 시작합니다.
+iOS (10.3 이상)에서는 기본 앱 내 평가 대화 상자를 호출하여 사용자가 App Store를 열지 않고도 앱을 평가할 수 있습니다.
+
+### Line Login (Android, iOS)
+
+기능 로그인, 로그 아웃, 획득, 확인 및 액세스 토큰 새로 고침 사용중인 LineSDK 버전은 다음과 같습니다.
+
+### Local Notifications (Android, iOS)
+
+이 플러그인을 사용하면 장치에 로컬 알림을 표시 할 수 있습니다
+알림은 앱의 일반 UI 외부에서 사용자에게 표시하는 메시지입니다. 시스템에 알림을 발행하도록 지시하면 먼저 알림 영역에 아이콘으로 표시됩니다. 알림의 세부 사항을보기 위해 사용자는 알림 드로어를 엽니 다. 알림 영역과 알림 드로어는 모두 사용자가 언제든지 볼 수있는 시스템 제어 영역입니다.
+
+### Location Accuracy (Android, iOS)
+
+Android 및 iOS 용이 Cordova / Phonegap 플러그인은 앱 내에서 기본 대화 상자를 트리거하여 위치 서비스의 활성화 / 변경을 요청하므로 사용자가 앱을 떠나 위치 설정을 수동으로 변경하지 않아도됩니다.
+
+### Lottie Splash Screen (Android, iOS)
+
+에어비앤비의 로티 래퍼를 사용하여 bodymovin / Lottie 애니메이션을 스플래시 화면으로 표시하는 Cordova 플러그인
+
+### Luxand (Android, iOS)
+
+이 플러그인을 사용하면 Luxand Face SDK를 이온 프로젝트에 통합 할 수 있으므로 애플리케이션에서 얼굴 인증을 쉽게 구현할 수 있습니다. 안면인식
+
+### MS ADAL (Android, iOS)
+
+ADAL (Active Directory 인증 라이브러리) 플러그인 ADAL (Active Directory 인증 라이브러리 ) 플러그인은 Windows Server Active Directory 및 Windows Azure Active Directory를 활용하여 Apache Cordova 앱에 대해 사용하기 쉬운 인증 기능을 제공합니다. 라이브러리의 소스 코드를 찾을 수 있습니다.
+
+### Market (Android, iOS)
+
+마켓 플레이스 (Google Play, App Store)에서 앱 페이지를 엽니 다.
+
+### Media Capture (Android, iOS, Browser)
+
+이 플러그인은 장치의 오디오, 이미지 및 비디오 캡처 기능에 대한 액세스를 제공합니다.
+
+### Media (Android, iOS, Browser)
+
+이 플러그인은 장치에서 오디오 파일을 녹음하고 재생할 수있는 기능을 제공합니다.
+
+
+
+
+
 
