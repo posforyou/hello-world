@@ -327,5 +327,17 @@ Device Orientation는 HTML5가 제공하는 매우 유용한 기능으로 중력
 
 기본 장치 및 플랫폼에 대한 정보에 액세스하십시오.
 
+### Diagnostic (Android, iOS, Browser)
+
+카메라, GPS, Wi-Fi와 같은 장치 하드웨어 기능이 앱에서 사용 가능한지 여부를 확인합니다.
+
+### Dialogs (Android, iOS, Browser)
+
+이 플러그인을 사용하면 장치 기본 대화 상자에 액세스하고 사용자 정의 할 수 있습니다.
+
+### Document Scanner (Android, iOS)
+
+이 플러그인은 문서 이미지를 처리하여 원근감을 보완합니다.
+
 
 
