@@ -813,3 +813,38 @@ Cordova 앱을위한 빠르고 에너지 효율적인 구성 가능한 QR 코드
 cordova-plugin-quikkly 용 이온 포장지 이온 앱에서 빠른 스캐너를 사용하십시오.
 https://quikklycodes.com/
 
+### Regula Document Reader (Android, iOS)
+
+식별 문서를 읽고 확인하기위한 플러그인.
+Regula Document Reader SDK를 사용하면 다양한 종류의 식별 문서, 여권, 운전 면허증, ID 카드 등을 읽을 수 있습니다. 모든 처리는 장치에서 완전히 오프라인 으로 수행됩니다 . 기기를 떠나는 데이터가 없습니다.
+기본 카메라를 사용하여 갤러리에서 문서 또는 이미지를 스캔하여 모든 데이터를 추출 할 수 있습니다.
+
+### Rollbar (Android, iOS)
+
+이 플러그인 은 응용 프로그램에 Rollbar App 모니터링을 추가 합니다
+
+### SMS (Android, iOS)
+
+### SQLite Porter (Android, iOS, Browser)
+
+이 Cordova / Phonegap 플러그인은 SQL 또는 JSON을 사용하여 SQLite 데이터베이스로 가져 오거나 내보낼 수 있습니다.
+
+### SQLite (Android, iOS)
+
+장치에서 SQLite 데이터베이스에 액세스하십시오.
+
+### SSH Connect (Android)
+
+SSH를 통해 연결하고 명령을 실행하는 Cordova 플러그인
+
+### Safari View Controller (Android, iOS)
+
+읽기 전용 웹 컨텐츠를 표시합니다.
+
+### Screen Orientation (Android, iOS)
+
+일반적인 방법으로 화면 방향을 설정 / 잠그는 Cordova 플러그인.
+
+### Screenshot (Android, iOS)
+
+스크린 샷을 캡처합니다
