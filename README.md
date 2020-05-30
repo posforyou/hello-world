@@ -773,3 +773,43 @@ Pinterest를위한 Cordova 플러그인
 핀터레스트는 월간 약 2억 5천만 명이 넘는 사용자들이 서비스를 이용하고 있으며, 현재 1750억 개의 핀 이 등록되어있고, 신규 회원의 80%가 미국 이외의 국가에서 유입되고 있습니다.
 페이스북, 인스타그램의 뒤를 잇는 빠르게 성장하는 소셜미디어 플랫폼입니다.
 
+### Power Management (Android, iOS)
+
+PowerManagement 플러그인은 장치 전원 관리 기능에 대한 액세스를 제공합니다. 사용자 상호 작용없이 오랫동안 계속 실행되는 응용 프로그램에 사용해야합니다.
+
+### PreviewAnyFile (Android, iOS)
+
+파일이 PDF 문서, Word 문서, Excel, 사무 문서, zip 아카이브 파일, 이미지, 텍스트, html 또는 기타 무엇이든간에 로컬 또는 외부를 제공하여이 Cordova 플러그인으로 미리보기를 수행하여 파일을 기본 모드로 미리 볼 수 있습니다 
+
+### Printer (Android, iOS)
+
+문서 또는 HTML 렌더링 컨텐츠를 인쇄합니다
+
+### Purchases (Android, iOS)
+
+구매는 인앱 구독 관리를 위한 크로스 플랫폼 솔루션입니다. 백엔드는 RevenueCat을 통해 제공됩니다
+https://www.revenuecat.com/
+
+### Push Notifications - WonderPush (Android, iOS)
+
+iOS 및 Android 기기에 무제한 푸시 알림을 보냅니다.
+몇 분 안에 시작하십시오 : Ionic 빠른 시작 안내서 .
+1000 명의 가입자 당 € 1의 푸시 메시지의 고급 세분화, 자동화 및 개인화.
+
+### Push (Android, iOS, Browser)
+
+푸시 알림을 등록하고받습니다.
+
+### QQSDK (Android, iOS)
+
+이 플러그인은 Android 및 iOS 용 Tencent QQ SDK의 래퍼입니다. QQ ssoLogin, QQ Sharing, QQZone Sharing 등에 액세스 할 수 있습니다.
+
+### QR Scanner (Android, iOS, Browser)
+
+Cordova 앱을위한 빠르고 에너지 효율적인 구성 가능한 QR 코드 스캐너.
+
+### QuikklyPlugin (Android, iOS)
+
+cordova-plugin-quikkly 용 이온 포장지 이온 앱에서 빠른 스캐너를 사용하십시오.
+https://quikklycodes.com/
+
