@@ -404,4 +404,53 @@ Cordova를위한 간단한 파일 암호화.
 이 플러그인은 파일 API를 구현하여 장치에있는 파일에 대한 읽기 / 쓰기 액세스를 허용합니다.
 File 클래스는 파일과 디렉토리에 액세스하기위한 정적 편의 기능을 구현합니다.
 
+### Fingerprint AIO (Android, iOS)
 
+Android 및 iOS에서 간단한 지문 인증을 사용하십시오.
+
+### Firebase Analytics (Android, iOS)
+
+Firebase Analytics 용 Cordova 플러그인
+firebase 콘솔로 이동하여 google-services.json 및 GoogleService-Info.plist를 내 보냅니다. 해당 파일을 cordova app 폴더의 루트에 넣으십시오.
+참고 : 인구 통계, 연령, 성별 데이터 등을 수집하려면 iOS에서 프로젝트에 AdSupport.framework를 추가로 포함해야합니다.
+
+### Firebase Authentication (Android, iOS)
+
+Firebase 인증을위한 Cordova 플러그인
+
+### Firebase Config (Android, iOS)
+
+Firebase 구성 용 Cordova 플러그인
+
+### Firebase Crashlytics (Android, iOS)
+
+충돌 보고서를 캡처 할 수있는 Google Firebase Crashlytics 플러그인
+
+### Firebase Dynamic Links (Android, iOS)
+
+Firebase 동적 링크 용 Cordova 플러그인
+변수 APP_DOMAIN 및 APP_PATH는 앱이 링크를 처리하기 위해 활동을 시작할 웹 URL을 지정합니다. 또한 앱 인덱싱 지원을 설정하는 데 사용되었습니다. firebase 콘솔로 이동하여 google-services.json 및 GoogleService-Info.plist를 내 보냅니다. 해당 파일을 cordova app 폴더의 루트에 넣으십시오.
+
+### Firebase Messaging (Android, iOS)
+
+Firebase 메시징 용 Cordova 플러그인
+
+### Firebase X (Android, iOS)
+
+이 플러그인은 Google Firebase에서 Cordova 프로젝트로 푸시 알림, 분석, 이벤트 추적, 충돌보고 등을 제공합니다! 안드로이드와 iOS 지원. Firebase라는 유지 관리되지 않은 ionic-navite 플러그인의 유지 관리 포크입니다.
+
+### Firebase (Android, iOS)
+
+이 플러그인은 Google Firebase에서 Cordova 프로젝트로 푸시 알림, 분석, 이벤트 추적, 충돌보고 등을 제공합니다! Android 및 iOS 지원 (iOS 10 포함).
+
+### FirebaseCrash (Android, iOS)
+
+이 플러그인은 Google Firebase에서 Cordova 프로젝트로 충돌보고를 제공합니다
+
+### Flashlight (Android, iOS)
+
+이 플러그인을 사용하면 장치의 손전등 / 토치를 켜고 끌 수 있습니다.
+
+### Flurry Analytics (Android, iOS)
+
+https://www.flurry.com/ 앱 분석 툴
