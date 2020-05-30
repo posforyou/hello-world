@@ -230,6 +230,38 @@ Branch.io는 딥 링크 및 초대 링크를위한 기여 서비스입니다.(?)
 
 Cordova / Ionic 애플리케이션에서 직접 전화를 겁니다. 참고 : iOS 시뮬레이터 (및 Android 시뮬레이터)는 전화 하위 시스템에 대한 액세스를 제공하지 않습니다.
 
+### Camera Preview (Android, iOS)
 
+HTML로 카메라 미리보기 표시
+
+### Camera (Android, iOS, Browser)
+
+사진을 찍거나 비디오를 캡처
+
+### Card IO (Android, iOS)
+
+이 플러그인은 card.io 신용 카드 스캔을 노출시킵니다.
+
+### Chooser (Android, iOS)
+
+Cordova 용 파일 선택기 플러그인
+
+### Class Kit (iOS)
+
+Apple의 ClassKit 프레임 워크를 사용하기위한 플러그인.
+전제 조건 : Xcode 9.4 및 iOS 11.4에서만 작동합니다.
+
+### CleverTap (Android, iOS)
+
+모바일 마케팅 플래폼
+CleverTap 은 SaaS 기반 고객 라이프 사이클 관리 및 캘리포니아 주 마운틴 뷰에 본사를 둔 모바일 마케팅 회사 입니다 . 2013 년 5 월에 설립 된이 솔루션 은 Sony, Vodafone, Carousell, DC Comics, Go-Jek, BookMyShow 및 DealsPlus를 포함하여 8,000 개 이상의 모바일 앱 분석 및 사용자 참여 제품을 제공합니다
+
+### Clipboard (Android, iOS)
+
+iOS, Android 및 Windows Phone 8을 지원하는 Cordova 용 클립 보드 관리 플러그인
+
+### Cloud Settings (Android, iOS)
+
+앱 설정을 클라우드 저장소에 저장하므로 사용자가 앱을 다시 설치하거나 다른 기기에 설치하면 설정이 복원되어 새 설치에서 사용할 수 있습니다.
 
 
