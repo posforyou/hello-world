@@ -909,4 +909,30 @@ Paldom / SpinnerDialog를 기반으로 기본 스피너를 표시하기위한 Co
 
 Spotify(Music)로 인증하기위한 Cordova 플러그인
 
+### Sqlite Db Copy (Android, iOS)
 
+외부 저장소에서 사용 가능한 데이터베이스 확인
+장치 저장소에서 데이터베이스 복사
+저장 위치에서 데이터베이스를 제거
+
+### StarPRNT (Android, iOS)
+
+Star Micronics Bluetooth / LAN 프린터 용 starprnt cordova 플러그인 용 이온 네이티브 래퍼
+
+### Status Bar (Android, iOS)
+
+기본 상태 표시 줄의 모양을 관리하십시오.
+
+### Stepcounter (Android)
+
+Android에서 기기의 스텝 카운터를 사용하기위한 Cordova 플러그인 (API> 19)
+스텝 카운터 서비스 시작 및 중지
+장치의 스텝 카운터 데이터 읽기
+
+### Streaming Media (Android, iOS)
+
+이 플러그인을 사용하면 iOS 및 Android에서 전체 화면의 기본 플레이어로 오디오 및 비디오를 스트리밍 할 수 있습니다.
+
+### Stripe (Android, iOS, Browser)
+
+Android 및 iOS 용 Stripe(미국업체 온라인 신용카드 결제)의 기본 SDK를 사용할 수있는 플러그인입니다.
