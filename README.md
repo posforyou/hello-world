@@ -1,7 +1,3 @@
-# hello-world
-Just another repository
-Lee Young-ju
-
 # ionic-native
 
 ### 3D Touch (iOS)
