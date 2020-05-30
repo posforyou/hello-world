@@ -588,6 +588,21 @@ iOS / Android에서 앱 구매를 위한 경량 Cordova 플러그인.
 
 App Security API를 사용하면 애플리케이션 개발자를 위해 정의 된 새로운 API 세트를 사용하여 플랫폼에서 보안 특성 및 기능을 사용할 수 있습니다. API를 제대로 사용하기 위해 보안 전문가가 될 필요는 없습니다. 데이터 암호화 및 기능 설정과 같은 주요 요소는 API 구현에 의해 추상화되고 수행됩니다.
 
+### Intercom (Android, iOS)
 
+이오니아 앱이 iOS 용 Intercom 및 / 또는 Android 용 Intercom을 사용할 수 있도록하는 플러그인입니다
+Intercom의 Business Messenger는 단순한 채팅 이상의 기능을 제공하므로 귀하와 고객이 효율적으로 업무를 수행 할 수 있습니다.
+
+### Ionic Webview (Android, iOS)
+
+웹보기 유틸리티에 액세스하십시오.
+
+### Is Debug (Android, iOS)
+
+앱이 디버그 모드에서 실행 중인지 감지합니다
+
+### Jins Meme (Android, iOS)
+
+렌즈 https://www.jins.com/us/
 
 
