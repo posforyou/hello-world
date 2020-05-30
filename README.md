@@ -358,5 +358,50 @@ Device Orientation는 HTML5가 제공하는 매우 유용한 기능으로 중력
 Enterprise Mobility Management
 Appconfig 멤버로는 VMWare, MobileIron, IBM, SOTI, JAMF, Blackberry 등이 있습니다. Workplace 앱은 이러한 솔루션을 통해 구성할 수 있습니다
 
+### Estimote Beacons (Android, iOS)
+
+이 플러그인은 전화기와 Estimote Beacons 주변 장치 간의 통신을 가능하게합니다.
+https://estimote.com/ 위치 및 근접 솔루션
+
+### Extended Device Information (Android)
+
+장치 하드웨어에서 추가 장치 정보를 검색합니다 (CPU, Memory, TotalStorage, FreeStorage)
+
+### FCM (Android, iOS)
+
+Firebase Cloud Messaging에 대한 기본 기능을 제공합니다
+
+### FTP (Android, iOS)
+
+이 cordova 플러그인은 web / js에서 ftp (클라이언트)를 사용하도록 작성되었습니다.
+
+### Facebook (Android, iOS, Browser)
+
+iOS 및 Android에서 기본 FB 애플리케이션에 액세스하려면 Facebook Connect 플러그인을 사용하십시오.
+
+### File Chooser (Android)
+
+사용자가 파일을 선택할 수 있도록 Android에서 파일 선택기를 열고 파일 URI를 반환합니다.
+
+### File Encryption (Android, iOS)
+
+Cordova를위한 간단한 파일 암호화.
+
+### File Opener (Android, iOS)
+
+이 플러그인은 기본 응용 프로그램을 사용하여 장치 파일 시스템에서 파일을 엽니다.
+
+### File Path (Android)
+
+이 플러그인을 사용하면 Android 컨텐츠 URI의 기본 파일 시스템 경로를 분석 할 수 있으며 aFileChooser 라이브러리의 코드를 기반으로합니다.
+
+### File Transfer (Android, iOS, Browser)
+
+이 플러그인을 사용하면 파일을 업로드하고 다운로드 할 수 있습니다.
+
+### File (Android, iOS, Browser)
+
+이 플러그인은 파일 API를 구현하여 장치에있는 파일에 대한 읽기 / 쓰기 액세스를 허용합니다.
+File 클래스는 파일과 디렉토리에 액세스하기위한 정적 편의 기능을 구현합니다.
 
 
