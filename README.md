@@ -45,11 +45,11 @@ Google's ExoPlayer framework
 
 이 플러그인은 사용자가 지문을 사용하여 인증하도록 하는 기본 대화 상자를 엽니다. 장치에 보안 잠금 화면 (패턴, PIN 또는 암호)이있는 경우 사용자는 해당 방법을 백업으로 사용하여 인증하도록 선택할 수 있습니다.
 
-### Android Full Screen (Android)
+#### Android Full Screen (Android)
 
 이 플러그인을 통해 개발자는 Android 용 Cordova 및 PhoneGap 앱에서 사용자에게 진정한 전체 화면 경험을 제공 할 수 있습니다. Android 4.0 이상을 사용하면 YouTube와 같은 앱에서 볼 수있는 방식으로 "린 모드"에서 실제 전체 화면을 사용할 수 있으며, 사용자가 다음에 상호 작용할 때까지 상태 및 탐색 표시 줄을 숨기고 앱을 화면 가장자리로 바로 확장 할 수 있습니다. 이것은 비디오 또는 장면 컷 컨텐츠에 이상적입니다. 
 
-### Android Permissions (Android)
+#### Android Permissions (Android)
 
 이 플러그인은 Android의 새로운 권한 확인 메커니즘을 지원하도록 설계되었습니다.
 
