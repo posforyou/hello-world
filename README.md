@@ -1,6 +1,6 @@
 # ionic-native
 
-### 3D Touch (iOS)
+#### 3D Touch (iOS)
 
 
 #### ABBYY Real-Time Recognition (Android, iOS)
@@ -13,23 +13,23 @@ ABBYY Mobile Web Capture Soultion 으로 라이선스를 구매해야 사용할 
 
 암복호화 가능
 
-### Action Sheet (Android, iOS, Browser)
+#### Action Sheet (Android, iOS, Browser)
 
 Native List of Options
 
-### AdMob Free/Plus/Pro (Android, iOS)
+#### AdMob Free/Plus/Pro (Android, iOS)
 
 광고
 
-### Adjust (Android, iOS)
+#### Adjust (Android, iOS)
 
 광고(?)
 
-### Admob (Android, iOS)
+#### Admob (Android, iOS)
 
 광고
 
-### Alipay (Android, iOS)
+#### Alipay (Android, iOS)
 
 알리페이
 
@@ -37,7 +37,7 @@ Native List of Options
 
 구글 애널리틱스
 
-### Android ExoPlayer (Android)
+#### Android ExoPlayer (Android)
 
 Google's ExoPlayer framework
 
@@ -53,11 +53,11 @@ Google's ExoPlayer framework
 
 이 플러그인은 Android의 새로운 권한 확인 메커니즘을 지원하도록 설계되었습니다.
 
-### Answers (Android, iOS)
+#### Answers (Android, iOS)
 
 답변 키트와 상호 작용하기위한 API
 
-### Anyline (Android, iOS)
+#### Anyline (Android, iOS)
 
 Anyline은 애플리케이션이 모바일 장치에서 OCR (Optical Character Recognition)을 활성화 할 수있는 사용하기 쉬운 SDK를 제공합니다. https://anyline.com
 
@@ -65,15 +65,15 @@ Anyline은 애플리케이션이 모바일 장치에서 OCR (Optical Character R
 
 이 플러그인을 사용하면 사용자 기기에 앱이 설치되어 있는지 확인할 수 있습니다. iOS의 URI 스킴 (예 : twitter : //) 또는 Android의 패키지 이름 (예 : com.twitter.android)이 필요합니다.
 
-### App Center Analytics (Android, iOS)
+#### App Center Analytics (Android, iOS)
 
 Microsoft 애널리틱스
 
-### App Center Crashes (Android, iOS)
+#### App Center Crashes (Android, iOS)
 
 Microsoft (?)
 
-### App Center Push (Android, iOS)
+#### App Center Push (Android, iOS)
 
 Microsoft Push (?)
 
@@ -81,7 +81,7 @@ Microsoft Push (?)
 
 다른 앱이 설치되어 있는지 확인하고 실행하는 간단한 Cordova 플러그인.
 
-### App Minimize (Android)
+#### App Minimize (Android)
 
 AppMinimize는 안드로이드 장치에서 응용 프로그램을 최소화하는 플러그인입니다
 
@@ -97,24 +97,24 @@ AppRate 플러그인을 사용하면 사용자가 지금, 나중에 또는 절�
 
 대상 빌드 설정에서 앱 버전을 읽습니다.
 
-### Apple Pay (iOS)
+#### Apple Pay (iOS)
 
 Apple Pay 기능을 제공하는 종속성이없는 Cordova 플러그인.
 
-### Apple Wallet (iOS)
+#### Apple Wallet (iOS)
 
 사용자가 결제 카드를 Apple 월렛에 추가 할 수있는 Cordova 플러그인.
 
-### Appodeal (Android, iOS)
+#### Appodeal (Android, iOS)
 
 네이티브 Appodeal SDK를 통해 광고를 게재하는 플러그인
 
-### Appsflyer (Android, iOS)
+#### Appsflyer (Android, iOS)
 
 데이터를 활용하여 다양한 채널과 플랫폼, 디바이스에 걸친 사용자 여정을 종합적으로 살펴보세요.
 https://www.appsflyer.com/kr/
 
-### Audio Management (Android)
+#### Audio Management (Android)
 
 벨소리, 음악, 알림 및 시스템의 오디오 스트림 볼륨을 관리하는 Cordova 플러그인. 해당 스트림의 가능한 벨소리 값은 무음, 진동 및 정상입니다.
 
